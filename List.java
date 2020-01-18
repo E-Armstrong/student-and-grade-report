@@ -1,17 +1,3 @@
-
-/**
- * EvanBirt_03 CS2050- EvanBirt_03 Class List
- * Evan Birt
- * Homework/Project #03
- * Windows 10, 15.6" laptop, IntelliJ IDEA
- * Turpitude - wickedness shamefulness
- * "The payoffs in showbiz seemed as random as a slot machine.", Kathie Lee Gifford. B. 1953
- *
- * @author Evan Birt
- * @version 2019.03.06
- */
-
-
 // Class List
 public class List<T> implements MyCollectionInterface<T> {
     private Node first;

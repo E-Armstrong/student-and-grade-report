@@ -1,14 +1,3 @@
-/**
- * EvanBirt_02 CS2050- EvanBirt_02 class
- * Evan Birt
- * Homework/Project #02
- * Windows 10, 15.6" laptop, IntelliJ IDEA
- * Harrow - to distress create stress or torment
- * "Goals turn a random walk into a chase." , Mihaly Csikszentmihalyi. B. 1934
- *
- * @author Evan Birt
- * @version 2019.02.13
- */
 public class Student {
     private String studentId;       // The students unique Id number
     private String firstName;       // The students first name
